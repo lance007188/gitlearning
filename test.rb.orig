@@ -1,0 +1,7 @@
+hello world from master
+sss
+<<<<<<< HEAD
+I have some hot fix here
+=======
+well done
+>>>>>>> issue53
